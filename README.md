@@ -1,5 +1,5 @@
 # Worldmusic
-一个用 ArkTS + ArkUI 开发的鸿蒙系统（Harmony OS）简单本地音乐播放器，。本工程已针对 DevEco Studio 26 / HarmonyOS SDK 26.0.0（API 26） 配置（compatibleSdkVersion: "26.0.0"）
+全程AI开发的一个用 ArkTS + ArkUI 开发的鸿蒙系统（Harmony OS）简单本地音乐播放器，。本工程已针对 DevEco Studio 26 / HarmonyOS SDK 26.0.0（API 26） 配置（compatibleSdkVersion: "26.0.0"）
 # 功能
 - 基本音乐 播放 / 暂停 / 上一首 / 下一首（列表循环）
 - 简单的播放功能，拥有沉浸的播放页面
