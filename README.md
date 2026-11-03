@@ -4,6 +4,18 @@
 >
 > 你有多少音乐躺在下载目录、网盘缓存、SD 卡里，却因为"要导入、要等、要占双倍空间"而懒得听？  
 > Worldmusic 只做一件事：**让你的本地音乐，立刻能听**。
+>（全流程ai开发）
+> 
+**首页**
+<img width="2560" height="1600" alt="1" src="https://github.com/user-attachments/assets/55336412-34e3-4251-ac13-663902f665bb" />
+**首页（自由多窗）**
+<img width="2560" height="1600" alt="1-1" src="https://github.com/user-attachments/assets/13d3efc4-d082-4d04-86fa-ea369d1df13c" />
+**播放页面**
+<img width="2560" height="1600" alt="2" src="https://github.com/user-attachments/assets/13f1c1b1-d3ae-4f8a-b533-7fb497afd1dc" />
+**沉浸播放页面**
+<img width="2560" height="1600" alt="2-1" src="https://github.com/user-attachments/assets/93ba1aa9-4e59-41ff-9636-0881230c19b8" />
+
+
 
 ---
 
