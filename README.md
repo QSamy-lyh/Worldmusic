@@ -1,4 +1,4 @@
-# Worldmusic · 世界音乐
+# Worldmusic
 
 > **一款不占你空间的鸿蒙本地音乐播放器。**
 >
